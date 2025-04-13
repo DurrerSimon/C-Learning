@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define NUM_ROWS 8
+#define NUM_ROWS 10
 
 double convertBTCtoCHF(double chf, double rate) {
     return chf / rate;
